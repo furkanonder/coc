@@ -45,3 +45,4 @@ Eğer herhangi bir sebepten istenmeyen kişi ilan edildiyseniz ve bu durumdan me
 
 Bu yönergede belirtilmeyen her nevi durumda, konsensüs kararları, protokol ve tüzük hükümleri; ya da ilgili toplulukların yönergeleri geçerlidir.
 
+**Not**: [Özgür Yazılım Derneği Raconu (CoC)](https://www.oyd.org.tr/racon/) belgesisi üzerinde değişiklik yapilarak kullanıma sunulmuştur.
