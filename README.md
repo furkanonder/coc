@@ -1,4 +1,4 @@
-"Özgür Yazılım Derneği Raconu (CoC)"
+# Özgür Yazılım Derneği Raconu (CoC)
 
 _(**racon** İta. ragione: kaide, usul, akıl selim, mantık, uyulması gereken kurallar bütünü)_
 
